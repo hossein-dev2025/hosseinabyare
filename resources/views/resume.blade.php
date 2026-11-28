@@ -328,7 +328,7 @@
 
                 <div class="h-[450px] rounded-t-full rounded-b-lg border border-[#c5a675]/40 p-2 overflow-hidden">
                     <img
-                        src="{{asset('assets/image/file_00000000271881f4bfca84e6c2d42609.png')}}"
+                        src="{{asset('assets/image/file_00000000271881f4bfca84e6c2d42609.webp')}}"
                         alt="تصویر پروفایل"
                         class="w-full h-full object-cover rounded-t-full rounded-b-lg"
                     >
