@@ -1,0 +1,18 @@
+[27-Nov-2026 17:44:16 UTC] PHP Warning:  require(/home/hosseinabyare/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/hosseinabyare/public_html/public/index.php on line 14
+[27-Nov-2026 17:44:16 UTC] PHP Warning:  require(/home/hosseinabyare/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/hosseinabyare/public_html/public/index.php on line 14
+[27-Nov-2026 17:44:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/hosseinabyare/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/hosseinabyare/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hosseinabyare/public_html/public/index.php on line 14
+[27-Nov-2026 17:44:29 UTC] PHP Warning:  require(/home/hosseinabyare/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/hosseinabyare/public_html/public/index.php on line 14
+[27-Nov-2026 17:44:29 UTC] PHP Warning:  require(/home/hosseinabyare/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/hosseinabyare/public_html/public/index.php on line 14
+[27-Nov-2026 17:44:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/hosseinabyare/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/hosseinabyare/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hosseinabyare/public_html/public/index.php on line 14
+[27-Nov-2026 17:44:31 UTC] PHP Warning:  require(/home/hosseinabyare/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/hosseinabyare/public_html/public/index.php on line 14
+[27-Nov-2026 17:44:31 UTC] PHP Warning:  require(/home/hosseinabyare/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/hosseinabyare/public_html/public/index.php on line 14
+[27-Nov-2026 17:44:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/hosseinabyare/public_html/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/hosseinabyare/public_html/public/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/hosseinabyare/public_html/public/index.php on line 14
